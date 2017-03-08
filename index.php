@@ -44,9 +44,9 @@
               <div class="large-4 columns">
                 <label>Contact Group
                   <select name="contact_group">
-                    <option value="husker">Family</option>
-                    <option value="starbuck">Friends</option>
-                    <option value="hotdog">Business</option>
+                    <option >Family</option>
+                    <option >Friends</option>
+                    <option >Business</option>
                   </select>
                 </label>
               </div>
